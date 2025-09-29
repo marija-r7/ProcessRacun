@@ -1,0 +1,6 @@
+@ProcessRacun_HostAddress = http://localhost:5082
+
+GET {{ProcessRacun_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
